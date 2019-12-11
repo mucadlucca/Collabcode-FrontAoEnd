@@ -1,4 +1,4 @@
-body{
+/* body{
   background-color: #F5E29B;
   margin: 0;
   padding: 0;  
@@ -14,7 +14,7 @@ header{
 header * {
   display: inline;    
 }
-h1{
+header h1{
   color: white;
   padding-left: 31px;
 }
@@ -55,7 +55,7 @@ nav a:hover{
   justify-content: center;
   align-items: center;  
 }
-h2{
+.container h1{
   font-family: 'Bitter', serif;
   font-style: normal;
   font-weight: bold;
@@ -63,7 +63,7 @@ h2{
   line-height: 29px;
   color: #333333;  
 }
-p{
+.container h2{
   font-family: 'Bitter', serif;
   font-style: normal;
   font-weight: normal;
@@ -122,4 +122,4 @@ footer{
   font-size: 12px;
   line-height: 13px;
   margin-top: 10px;
-}
+} */
