@@ -1,0 +1,14 @@
+.main-footer{
+  margin-left: var(--gap-medium);
+}
+.main-footer img{
+  height: 15px;
+  margin-right: var(--gap-smaller);
+}
+.main-footer hr{
+  border-style: dashed;
+  border-color: var(--color-second); 
+}
+.main-footer > .simple-paragraph{
+  font-size: 12px;  
+}
